@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Peux tu stp push dans git le code que tu as fait stp ?");
         }
     }
 }
